@@ -1,3 +1,3 @@
 ## Full Stack MERN Application
 
-# Backend Repo here : [Bakend](https://github.com/JaredBrown1/memories-backend)
+# Backend Repo here : [Backend](https://github.com/JaredBrown1/memories-backend)
